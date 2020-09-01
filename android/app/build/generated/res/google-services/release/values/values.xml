@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">708314966195-h0p8269976oifm5p905ksub1n7a591c8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://testchat-b9ff5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">708314966195</string>
+    <string name="google_api_key" translatable="false">AIzaSyDN_gjSWgxSs2e1pXnoBX9tgLie4Z0_DqU</string>
+    <string name="google_app_id" translatable="false">1:708314966195:android:5c22ab4df799423ec9e8c6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDN_gjSWgxSs2e1pXnoBX9tgLie4Z0_DqU</string>
+    <string name="google_storage_bucket" translatable="false">testchat-b9ff5.appspot.com</string>
+    <string name="project_id" translatable="false">testchat-b9ff5</string>
+</resources>

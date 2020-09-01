@@ -1,0 +1,52 @@
+{
+    "extends": [
+      "tslint-react-recommended"
+    ],
+    "rules": {
+      "ordered-imports": [
+        false
+      ],
+      "quotemark": [
+        true,
+        "single",
+        "jsx-single",
+        "avoid-escape"
+      ],
+    
+      "member-access": [
+        false
+      ],
+      "member-ordering": [
+        false
+      ],
+      "trailing-comma": [
+        false,
+        {
+          "singleline": "never",
+          "multiline": "never"
+        }
+      ],
+      "no-empty": false,
+      "no-submodule-imports": false,
+      "no-implicit-dependencies": false,
+      "no-constant-condition": false,
+      "triple-equals": [
+        true,
+        "allow-undefined-check"
+      ],
+      "ter-indent": [
+        false,
+        2,
+        {
+          "SwitchCase": 1
+        }
+      ],
+      "no-duplicate-imports": false,
+      "jsx-alignment": false,
+      "jsx-no-bind": true,
+      "jsx-no-lambda": false,
+      "max-classes-per-file": [
+        false
+      ]
+    }
+  }

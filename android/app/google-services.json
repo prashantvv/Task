@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708314966195",
+    "firebase_url": "https://testchat-b9ff5.firebaseio.com",
+    "project_id": "testchat-b9ff5",
+    "storage_bucket": "testchat-b9ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708314966195:android:5c22ab4df799423ec9e8c6",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708314966195-h0p8269976oifm5p905ksub1n7a591c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_gjSWgxSs2e1pXnoBX9tgLie4Z0_DqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708314966195-h0p8269976oifm5p905ksub1n7a591c8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708314966195-mtnhm9hgbaug8bl39ris5u3dflr85a1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmhand"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
