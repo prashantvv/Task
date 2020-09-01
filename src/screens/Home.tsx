@@ -5,8 +5,9 @@ import {connect} from 'react-redux';
 import SwipeButton from '../CustomSwipeBtn'
 import {IUser} from '../interface';
 import MyTouchOpacity from '../customComponents/MyTouchOpacity'
-
+import propTypes from 'prop-types';
 const width=Dimensions.get('window').width;
+
 
 const Home=(props: IUser) => {
   const {name}=props.loginUser;
@@ -80,6 +81,10 @@ const Home=(props: IUser) => {
     </View >
       </SafeAreaView>
   );
+}
+
+Home.propTypes = {
+  loginUser: propTypes.object
 }
 
 const mapStateToProps=(state: any) => ({
